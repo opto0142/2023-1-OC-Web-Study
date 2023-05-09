@@ -17,7 +17,9 @@ Flexible Layout
 ## Box Model
 
 Content - The content of the box, where text and images appear / 컨텐츠 영역, 글과 이미지 등
+
 Padding - Clears an area around the content. The padding is transparent / border와 content 사이의 간격, border의 내부 여백
+
 Border - A border that goes around the padding and content / 여러 종류의 테두리가 있으나 자주 사용되지는 않는다
 
 Margin - Clears an area outside the border. The margin is transparent / 요소와 요소 사이의 여백
